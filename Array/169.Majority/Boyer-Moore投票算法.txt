@@ -1,0 +1,3 @@
+时间：O（N）
+空间：O（1）
+只遍历一次，选定第一个为candidate，如果每张等于candidate，count+1， 否则-1， 如果count为0，当前元素为candidate

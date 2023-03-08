@@ -1,0 +1,6 @@
+字符串：
+string.replace(oldvalue,newvalue,count)
+默认全部替换，本题设count为1
+
+空间：O(1)
+时间：O(N^2) 最坏情况，ransom和magazine都遍历

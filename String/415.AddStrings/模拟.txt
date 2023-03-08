@@ -1,0 +1,6 @@
+res = str + res   ##把str加在res左边
+res += str        ##把str加在res右边
+
+空间：O(1)指针和变量用常数个存储单元
+时间：O（Max（M，N））看哪个字符串更长
+

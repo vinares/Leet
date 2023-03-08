@@ -1,0 +1,4 @@
+collections.Counter(str):将字符串str中的字符进行统计构成字典！！！！key是字符，value是频数。
+''.join(str)：将str中的字符用''连接构成新的字符串。
+collections.Counter(str).most_common(n):字典中value前n大的key和value 构成的列表！！！n不写则是字典的item构成的列表。
+

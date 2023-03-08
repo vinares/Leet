@@ -1,0 +1,2 @@
+str.replace()替换标点符号为空格，lower()小写，split（）字符串分割成字符串列表,collections.Counter统计单词出现次数。
+比较单词，用集合。

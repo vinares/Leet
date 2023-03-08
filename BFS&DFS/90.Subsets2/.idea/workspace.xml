@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04e61167-8065-412d-a6f1-03f4019df7e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Array/118.Pascal'sTriangle/迭代.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/118.Pascal'sTriangle/迭代.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/118.Pascal'sTriangle/错位相加.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/118.Pascal'sTriangle/错位相加.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/119.Pascal'sTriangle2/comb.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/119.Pascal'sTriangle2/comb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/119.Pascal'sTriangle2/错位相加.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/119.Pascal'sTriangle2/错位相加.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/121.Stock/堆栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/121.Stock/堆栈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/121.Stock/更新.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/121.Stock/更新.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/122.Stock2/动态规划.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/122.Stock2/动态规划.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/122.Stock2/动态规划.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/122.Stock2/动态规划.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/122.Stock2/贪心算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/122.Stock2/贪心算法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/122.Stock2/贪心算法.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/122.Stock2/贪心算法.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/123.Stock3/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/123.Stock3/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/134.GasStation/贪心算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/134.GasStation/贪心算法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/134.GasStation/贪心算法.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/134.GasStation/贪心算法.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/134.GasStation/迭代.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/134.GasStation/迭代.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/134.GasStation/迭代.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/134.GasStation/迭代.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/169.Majority/Boyer-Moore.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/169.Majority/Boyer-Moore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/169.Majority/Boyer-Moore投票算法.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/169.Majority/Boyer-Moore投票算法.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/169.Majority/Counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/169.Majority/Counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/169.Majority/分治.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/169.Majority/分治.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/169.Majority/分治.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/169.Majority/分治.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/169.Majority/随机.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/169.Majority/随机.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/188.Stock4/动态规划.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/188.Stock4/动态规划.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/189.RotateK/反转.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/189.RotateK/反转.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/189.RotateK/反转.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/189.RotateK/反转.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/189.RotateK/额外数组.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/189.RotateK/额外数组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/217.Duplicate/哈希表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/217.Duplicate/哈希表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/219.Duplicate2/哈希表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/219.Duplicate2/哈希表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/220.Duplicate3/AVL.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/220.Duplicate3/AVL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/220.Duplicate3/分桶.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/220.Duplicate3/分桶.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/220.Duplicate3/哈希.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/220.Duplicate3/哈希.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/220.Duplicate3/暴力.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/220.Duplicate3/暴力.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/229.Majority2/Moore投票.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/229.Majority2/Moore投票.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/229.Majority2/哈希.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/229.Majority2/哈希.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/229.Majority2/随机.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/229.Majority2/随机.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/26.RemoveDup/删除重复.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/26.RemoveDup/删除重复.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/27.Remove/删除元素.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/27.Remove/删除元素.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/274.H-Index/哈希暴力.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/274.H-Index/哈希暴力.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/274.H-Index/排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/274.H-Index/排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/274.H-Index/计数排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/274.H-Index/计数排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/275.H-Index2/Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/275.H-Index2/Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/275.H-Index2/顺序遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/275.H-Index2/顺序遍历.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/299.GetHint/Counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/299.GetHint/Counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/299.GetHint/哈希表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/299.GetHint/哈希表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/307.SumRange/Fenwick.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/307.SumRange/Fenwick.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/307.SumRange/FenwickTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/307.SumRange/FenwickTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/307.SumRange/SegmentTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/307.SumRange/SegmentTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/307.SumRange/常规.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/307.SumRange/常规.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/308.RangeSum2D/BIT.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/308.RangeSum2D/BIT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/309.Stock4/动态规划.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/309.Stock4/动态规划.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/316.RemoveLetters/栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/316.RemoveLetters/栈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/316.RemoveLetters/栈.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/316.RemoveLetters/栈.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/316.RemoveLetters/贪心递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/316.RemoveLetters/贪心递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/316.RemoveLetters/递归.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/316.RemoveLetters/递归.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/384.Shuffle/Fisher-Yates洗牌.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/384.Shuffle/Fisher-Yates洗牌.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/384.Shuffle/暴力.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/384.Shuffle/暴力.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/384.Shuffle/暴力.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/384.Shuffle/暴力.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/384.Shuffle/洗牌.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/384.Shuffle/洗牌.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/41.MissingPositive/原地哈希.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/41.MissingPositive/原地哈希.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/41.MissingPositive/桶.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/41.MissingPositive/桶.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/41.MissingPositive/桶排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/41.MissingPositive/桶排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/41.MissingPositive/集合排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/41.MissingPositive/集合排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/442.FindDup/抽屉原理.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/442.FindDup/抽屉原理.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/448.FindMiss/负标记.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/448.FindMiss/负标记.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/45.Jump2/贪心算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/45.Jump2/贪心算法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/55.Jump/哈希表找0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/55.Jump/哈希表找0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/55.Jump/看0能不能跨越.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/55.Jump/看0能不能跨越.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/55.Jump/贪心算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/55.Jump/贪心算法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/55.Jump/贪心算法.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/55.Jump/贪心算法.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/55.Jump/递归超时.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/55.Jump/递归超时.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/和有序数组比较.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/和有序数组比较.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/和有序数组比较.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/和有序数组比较.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/堆栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/堆栈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/堆栈.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/堆栈.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/循环4次.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/循环4次.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/循环4次.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/循环4次.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/暴力找左右边界.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/暴力找左右边界.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/暴力找左右边界.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/581.ShortestUnsorted/暴力找左右边界.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/80.RemoveDup2/删除重复3个.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/80.RemoveDup2/删除重复3个.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/80.RemoveDup2/覆盖多余.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/80.RemoveDup2/覆盖多余.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/845.LongestMountain/记录增和不动点.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/845.LongestMountain/记录增和不动点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Array/845.LongestMountain/记录峰值.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Array/845.LongestMountain/记录峰值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../815.BusRoute/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../815.BusRoute/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../815.BusRoute/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/../815.BusRoute/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/153.RotatedArrayMin/Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/153.RotatedArrayMin/Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/153.RotatedArrayMin/简化.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/153.RotatedArrayMin/简化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/154.RotatedArrayMin2/Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/154.RotatedArrayMin2/Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/162.Peak/Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/162.Peak/Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/278.FirstBadVersion/Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/278.FirstBadVersion/Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/33.RotatedArray/Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/33.RotatedArray/Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/34.Range/Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/34.Range/Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/34.Range/Bisect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/34.Range/Bisect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/349.Intersection/排序双指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/349.Intersection/排序双指针.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/35.SearchInsert/Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/35.SearchInsert/Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/35.SearchInsert/Binary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/35.SearchInsert/Binary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/528.WeightPick/Resvoir Sampling.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/528.WeightPick/Resvoir Sampling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/528.WeightPick/几何解释.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/528.WeightPick/几何解释.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/528.WeightPick/几何解释.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/528.WeightPick/几何解释.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/704.BinarySearch/Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/704.BinarySearch/Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/704.BinarySearch/Binary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/704.BinarySearch/Binary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/704.BinarySearch/Sequantial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/704.BinarySearch/Sequantial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/81.RotatedArray2/Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/81.RotatedArray2/Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch/81.RotatedArray2/与33区别.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch/81.RotatedArray2/与33区别.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/190.Reverse/掩码位移.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/190.Reverse/掩码位移.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/190.Reverse/数组.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/190.Reverse/数组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/190.Reverse/运算.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/190.Reverse/运算.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/191.HammingWeight/16进制散列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/191.HammingWeight/16进制散列表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/191.HammingWeight/字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/191.HammingWeight/字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/191.HammingWeight/除.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/191.HammingWeight/除.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/201.Bitwise/brian-kernighan.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/201.Bitwise/brian-kernighan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/201.Bitwise/brian-kernighan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/201.Bitwise/brian-kernighan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/201.Bitwise/优化暴力.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/201.Bitwise/优化暴力.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/201.Bitwise/公共前缀.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/201.Bitwise/公共前缀.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/201.Bitwise/暴力.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/201.Bitwise/暴力.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/201.Bitwise/递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/201.Bitwise/递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/421.MaxXOR/哈希集合.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/421.MaxXOR/哈希集合.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/421.MaxXOR/字典树.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/421.MaxXOR/字典树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/89.GreyCode/和上一位异或.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/89.GreyCode/和上一位异或.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/89.GreyCode/格雷码规则.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/89.GreyCode/格雷码规则.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/89.GreyCode/格雷码规则.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/89.GreyCode/格雷码规则.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/89.GreyCode/镜像反射.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/89.GreyCode/镜像反射.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bit/89.GreyCode/镜像反射.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bit/89.GreyCode/镜像反射.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/11.MostWater/双指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/11.MostWater/双指针.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/11.MostWater/暴力.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/11.MostWater/暴力.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/120.Triangle/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/120.Triangle/DP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/139.WordBreak/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/139.WordBreak/DP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/139.WordBreak/DP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/139.WordBreak/DP.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/139.WordBreak/记忆回溯.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/139.WordBreak/记忆回溯.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/139.WordBreak/记忆回溯.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/139.WordBreak/记忆回溯.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/279.SquareNum/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/279.SquareNum/DP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/279.SquareNum/math.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/279.SquareNum/math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/279.SquareNum/贪心BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/279.SquareNum/贪心BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/279.SquareNum/贪心帝国.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/279.SquareNum/贪心帝国.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/279.SquareNum/贪心递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/279.SquareNum/贪心递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/321.MaxNumber/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/321.MaxNumber/DP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/407.TrapRain2/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/407.TrapRain2/DP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/407.TrapRain2/小顶堆.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/407.TrapRain2/小顶堆.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/416.EqualSum/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/416.EqualSum/DP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/42.TrapRain/动归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/42.TrapRain/动归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/42.TrapRain/双指针动归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/42.TrapRain/双指针动归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/42.TrapRain/哈希表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/42.TrapRain/哈希表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/518.Change/同余更新.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/518.Change/同余更新.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/518.Change/同余更新.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/518.Change/同余更新.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/62.UniquePath/comb.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/62.UniquePath/comb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/62.UniquePath/comb.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/62.UniquePath/comb.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/62.UniquePath/matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/62.UniquePath/matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/62.UniquePath/matrix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/62.UniquePath/matrix.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/62.UniquePath/一维动态规划.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/62.UniquePath/一维动态规划.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/62.UniquePath/一维动态规划.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/62.UniquePath/一维动态规划.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/63.UniquePath2/优化动态规划.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/63.UniquePath2/优化动态规划.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/63.UniquePath2/动态规划.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/63.UniquePath2/动态规划.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/64.PathSum/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/64.PathSum/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/64.PathSum/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/64.PathSum/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/64.PathSum/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/64.PathSum/DP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/64.PathSum/DP空间优化.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/64.PathSum/DP空间优化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/64.PathSum/优化DP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/64.PathSum/优化DP.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/70.Climb/Fibonachi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/70.Climb/Fibonachi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/70.Climb/矩阵快速幂.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/70.Climb/矩阵快速幂.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/70.Climb/通项公式.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/70.Climb/通项公式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/718.RepeatedSub/DP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/718.RepeatedSub/DP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/718.RepeatedSub/二分查找哈希.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/718.RepeatedSub/二分查找哈希.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DP/718.RepeatedSub/滑窗.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DP/718.RepeatedSub/滑窗.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design/1206.SkipList/skiplist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Design/1206.SkipList/skiplist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Graph/785.Bipartite/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Graph/785.Bipartite/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Graph/785.Bipartite/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Graph/785.Bipartite/BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/138.Ramdom/深拷贝.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/138.Ramdom/深拷贝.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/138.Ramdom/迭代O(N)空间.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/138.Ramdom/迭代O(N)空间.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/138.Ramdom/迭代O（1）空间.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/138.Ramdom/迭代O（1）空间.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/138.Ramdom/递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/138.Ramdom/递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/141.HasCircle/哈希表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/141.HasCircle/哈希表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/141.HasCircle/哈希表.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/141.HasCircle/哈希表.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/141.HasCircle/循环.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/141.HasCircle/循环.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/141.HasCircle/快慢指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/141.HasCircle/快慢指针.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/141.HasCircle/快慢指针.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/141.HasCircle/快慢指针.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/19.RemoveNth/快中慢指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/19.RemoveNth/快中慢指针.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/19.RemoveNth/栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/19.RemoveNth/栈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/19.RemoveNth/栈.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/19.RemoveNth/栈.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/2.Add2Numbers/三指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/2.Add2Numbers/三指针.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/2.Add2Numbers/还原数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/2.Add2Numbers/还原数字.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/206.Reversed/reversed.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/206.Reversed/reversed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/21.Merge/迭代.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/21.Merge/迭代.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/21.Merge/迭代.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/21.Merge/迭代.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/21.Merge/递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/21.Merge/递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/21.Merge/递归.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/21.Merge/递归.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/23.MergeN/两两合并.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/23.MergeN/两两合并.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/23.MergeN/两两合并.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/23.MergeN/两两合并.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/23.MergeN/分治.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/23.MergeN/分治.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/23.MergeN/堆.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/23.MergeN/堆.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/23.MergeN/堆.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/23.MergeN/堆.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/234.Palindrome/列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/234.Palindrome/列表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/234.Palindrome/快慢指针栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/234.Palindrome/快慢指针栈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/24.SwapPairs/栈迭代.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/24.SwapPairs/栈迭代.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/24.SwapPairs/迭代.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/24.SwapPairs/迭代.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/24.SwapPairs/迭代.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/24.SwapPairs/迭代.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/24.SwapPairs/递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/24.SwapPairs/递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/24.SwapPairs/递归.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/24.SwapPairs/递归.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/25.ReverseK/迭代.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/25.ReverseK/迭代.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/25.ReverseK/迭代.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/25.ReverseK/迭代.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/328.OddEven/双指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/328.OddEven/双指针.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/430.Flatten/DFS 递归.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/430.Flatten/DFS 递归.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/430.Flatten/DFS迭代.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/430.Flatten/DFS迭代.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/430.Flatten/DFS递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/430.Flatten/DFS递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/445.Add2NumbersII/列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/445.Add2NumbersII/列表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/445.Add2NumbersII/栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/445.Add2NumbersII/栈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/445.Add2NumbersII/还原数字.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/445.Add2NumbersII/还原数字.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/61.Rotate/左移变右移.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/61.Rotate/左移变右移.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/61.Rotate/循环链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/61.Rotate/循环链表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/86.Partition/双指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/86.Partition/双指针.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/876.Middle/列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/876.Middle/列表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/876.Middle/列表.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/876.Middle/列表.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/876.Middle/单指针两次遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/876.Middle/单指针两次遍历.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/876.Middle/单指针两次遍历.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/876.Middle/单指针两次遍历.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/876.Middle/快慢指针一次遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/876.Middle/快慢指针一次遍历.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/876.Middle/快慢指针一次遍历.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/876.Middle/快慢指针一次遍历.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/92.Reversed2/迭代.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/92.Reversed2/迭代.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/92.Reversed2/迭代.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/92.Reversed2/迭代.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinkedList/92.Reversed2/递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/92.Reversed2/递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/1.Sum2/哈希表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/1.Sum2/哈希表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/15.Sum3/双指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/15.Sum3/双指针.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/15.Sum3/哈希.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/15.Sum3/哈希.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/16.Sum3Closest/排序双指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/16.Sum3Closest/排序双指针.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/167.Sum2Sorted/Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/167.Sum2Sorted/Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/167.Sum2Sorted/双指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/167.Sum2Sorted/双指针.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/18.Sum4/双指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/18.Sum4/双指针.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/412.FizzBuzz/FizzBuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/412.FizzBuzz/FizzBuzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/412.FizzBuzz/散列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/412.FizzBuzz/散列表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/523.SubarraySum/哈希.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/523.SubarraySum/哈希.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/525.SubarrayBinary/Hash.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/525.SubarrayBinary/Hash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/560.Subarray/Hashmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/560.Subarray/Hashmap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/560.Subarray/哈希表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/560.Subarray/哈希表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/560.Subarray/硬算.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/560.Subarray/硬算.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Math/7.Reverse/模10运算.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Math/7.Reverse/模10运算.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/240.Search2/Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/240.Search2/Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/240.Search2/Binary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/240.Search2/Binary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/240.Search2/移动.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/240.Search2/移动.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/240.Search2/移动.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/240.Search2/移动.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/36.Sukudo/一次遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/36.Sukudo/一次遍历.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/36.Sukudo/三次遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/36.Sukudo/三次遍历.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/37.SudokuSolver/位运算优化.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/37.SudokuSolver/位运算优化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/37.SudokuSolver/位运算优化.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/37.SudokuSolver/位运算优化.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/37.SudokuSolver/枚举优化.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/37.SudokuSolver/枚举优化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/37.SudokuSolver/递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/37.SudokuSolver/递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/37.SudokuSolver/递归.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/37.SudokuSolver/递归.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/48.RotateImage/分析.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/48.RotateImage/分析.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/48.RotateImage/旋转4角.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/48.RotateImage/旋转4角.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/48.RotateImage/转置反转.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/48.RotateImage/转置反转.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/498.Diagonal/反转偶数排.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/498.Diagonal/反转偶数排.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/498.Diagonal/反转偶数排.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/498.Diagonal/反转偶数排.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/498.Diagonal/模拟.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/498.Diagonal/模拟.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/498.Diagonal/模拟.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/498.Diagonal/模拟.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/54.Spiral/zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/54.Spiral/zip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/54.Spiral/分层模拟.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/54.Spiral/分层模拟.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/54.Spiral/模拟.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/54.Spiral/模拟.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/59.Spiral2/按边输入.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/59.Spiral2/按边输入.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/59.Spiral2/模拟.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/59.Spiral2/模拟.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/74.Search/先行后列Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/74.Search/先行后列Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/74.Search/全部元素Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/74.Search/全部元素Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/74.Search/分析.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/74.Search/分析.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/79.Exist/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/79.Exist/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Matrix/79.Exist/DFS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Matrix/79.Exist/DFS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sort/QSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sort/QSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sort/mergeSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sort/mergeSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/12.Int2Roman/哈希.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/12.Int2Roman/哈希.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/13.Roman2Int/哈希优化.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/13.Roman2Int/哈希优化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/13.Roman2Int/哈希表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/13.Roman2Int/哈希表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/168.Excel/26进制.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/168.Excel/26进制.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/171.Excel2/26to10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/171.Excel2/26to10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/205. Insomorphic/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/205. Insomorphic/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/205. Insomorphic/.idea/205. Insomorphic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/205. Insomorphic/.idea/205. Insomorphic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/205. Insomorphic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/205. Insomorphic/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/205. Insomorphic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/205. Insomorphic/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/205. Insomorphic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/205. Insomorphic/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/205. Insomorphic/哈希表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/205. Insomorphic/哈希表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/205. Insomorphic/哈希表.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/205. Insomorphic/哈希表.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/205. Insomorphic/首次出现索引相同.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/205. Insomorphic/首次出现索引相同.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/205. Insomorphic/首次出现索引相同.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/205. Insomorphic/首次出现索引相同.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/290.Pattern/map函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/290.Pattern/map函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/290.Pattern/哈希表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/290.Pattern/哈希表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/290.Pattern/哈希表.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/290.Pattern/哈希表.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/316.RemoveDup/栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/316.RemoveDup/栈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/38.Count&amp;Say/递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/38.Count&amp;Say/递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/383.Ransom/双哈希.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/383.Ransom/双哈希.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/383.Ransom/双哈希.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/383.Ransom/双哈希.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/383.Ransom/暴力法.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/383.Ransom/暴力法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/383.Ransom/暴力法.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/383.Ransom/暴力法.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/415.AddStrings/无int模拟.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/415.AddStrings/无int模拟.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/415.AddStrings/无int模拟.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/415.AddStrings/无int模拟.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/415.AddStrings/模拟.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/415.AddStrings/模拟.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/415.AddStrings/模拟.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/415.AddStrings/模拟.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/451.FrequancySort/Counter函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/451.FrequancySort/Counter函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/451.FrequancySort/Counter函数.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/451.FrequancySort/Counter函数.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/451.FrequancySort/大顶堆.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/451.FrequancySort/大顶堆.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/451.FrequancySort/大顶堆.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/451.FrequancySort/大顶堆.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/451.FrequancySort/桶排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/451.FrequancySort/桶排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/539.TimeDifferecne/排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/539.TimeDifferecne/排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/539.TimeDifferecne/暴力.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/539.TimeDifferecne/暴力.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/539.TimeDifferecne/集合.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/539.TimeDifferecne/集合.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/556.Greater/五度相生律.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/556.Greater/五度相生律.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/556.Greater/位存储.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/556.Greater/位存储.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/771.Jewels&amp;Stones/位运算.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/771.Jewels&amp;Stones/位运算.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/771.Jewels&amp;Stones/集合.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/771.Jewels&amp;Stones/集合.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/819.CommonWord/Counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/819.CommonWord/Counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../String/819.CommonWord/Counter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../String/819.CommonWord/Counter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tree/144.PreorderTraversal/迭代.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tree/144.PreorderTraversal/迭代.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tree/144.PreorderTraversal/递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tree/144.PreorderTraversal/递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tree/145.PostorderTraversal/迭代.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tree/145.PostorderTraversal/迭代.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tree/145.PostorderTraversal/递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tree/145.PostorderTraversal/递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tree/94.InorderTraversal/DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tree/94.InorderTraversal/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tree/94.InorderTraversal/迭代.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tree/94.InorderTraversal/迭代.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1vc207fMDIpmRcwbAVHLDnhFdGC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../String/443. StringCompression" />
+  </component>
+  <component name="RunManager" selected="Python.dfs">
+    <configuration name="dfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="90.Subsets2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dfs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="90.Subsets2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dfs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04e61167-8065-412d-a6f1-03f4019df7e4" name="Default Changelist" comment="" />
+      <created>1626846830797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626846830797</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

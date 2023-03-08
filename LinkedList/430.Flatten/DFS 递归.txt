@@ -1,0 +1,7 @@
+https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/solution/bian-ping-hua-duo-ji-shuang-xiang-lian-biao-by-lee/
+
+时间空间：O(N)
+对于二叉树
+深度优先遍历DFS==前中后序遍历
+广度优先遍历BFS==层次遍历     详见：
+https://www.cnblogs.com/bigsai/p/11393609.html

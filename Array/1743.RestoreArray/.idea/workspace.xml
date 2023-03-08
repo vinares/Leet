@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb4cdb46-3302-4daf-be20-633293357f4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BFS&amp;DFS/286.SurroundedRegions/DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode刷题分类手册第5版.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode刷题分类手册第5版.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1vo3I4FmXTzb2DgaCoynN6kTNit" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/DOC/代写/DEB刘京，计算机编程算法作业，8.9早10due，C4" />
+  </component>
+  <component name="RunManager">
+    <configuration name="hashtable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1743.RestoreArray" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hashtable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hashtable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb4cdb46-3302-4daf-be20-633293357f4c" name="Default Changelist" comment="" />
+      <created>1627214530679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627214530679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627222656302">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="232" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1627222656301" />
+    <state x="517" y="245" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627214572258">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="517" y="245" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1627214572258" />
+    <state x="557" y="181" key="FileChooserDialogImpl" timestamp="1628336751303">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="557" y="181" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1628336751303" />
+    <state width="1420" height="205" key="GridCell.Tab.0.bottom" timestamp="1627223272177">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1420" height="205" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1627223272177" />
+    <state width="1420" height="205" key="GridCell.Tab.0.center" timestamp="1627223272177">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1420" height="205" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1627223272177" />
+    <state width="1420" height="205" key="GridCell.Tab.0.left" timestamp="1627223272177">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1420" height="205" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1627223272177" />
+    <state width="1420" height="205" key="GridCell.Tab.0.right" timestamp="1627223272177">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1420" height="205" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1627223272177" />
+  </component>
+</project>

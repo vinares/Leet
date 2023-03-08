@@ -1,0 +1,7 @@
+时间：O（NlogN）   参考主定理
+      2次长度为N/2的子问题，并做长度为2N的线性扫描
+      T（N）= 2T（N/2） + 2N
+空间：O（logN）
+
+
+主定理：https://zhuanlan.zhihu.com/p/100531135

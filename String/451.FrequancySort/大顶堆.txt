@@ -1,0 +1,33 @@
+思路：
+用collections.defaultdict计数字符串，得到{字母：次数}字典
+用heapq构造大顶堆：由于heapq只有小顶堆，让堆元素为（-次数，字母）就是大顶堆。
+每个字母用几次就存几个这样的元素
+最后用''.join（）输出一个字符串
+因为heappop的是一个item，只显示第二项字母，即[1]。
+
+空间：O(N)
+时间：O(N^2)
+
+collections.defaultdict(int)用于计数：
+
+from collections import defaultdict
+s = 'mississippi'
+d = defaultdict(int)
+for k in s:
+    d[k] += 1
+print('\n',d)
+a=sorted(d.items())
+print('\n',a)
+
+结果：
+defaultdict(<class 'int'>, {'m': 1, 'i': 4, 's': 4, 'p': 2})
+[('i', 4), ('m', 1), ('p', 2), ('s', 4)]
+
+
+join函数：用前面的字符，链接后面字符串的字符。
+str = "-";
+seq = ("a", "b", "c"); # 字符串序列
+print str.join( seq );
+
+结果：
+a-b-c

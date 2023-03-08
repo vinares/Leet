@@ -1,0 +1,7 @@
+字典：
+get（i,default）读键值，i是键名，如果没有这个键，输出的值是default。
+dict[key]是在确定有这个键的时候，作为键值。
+keys（）读键名组成的列表。
+
+空间：O(M)+O(N) = O(Max(M,N))
+时间：O(N)+O(M)+O(N) = O(Max(M,N))

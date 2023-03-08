@@ -1,0 +1,3 @@
+时间：O(N)
+空间：O(1）
+先判断fast.next是否存在，才能调用fast.next.next

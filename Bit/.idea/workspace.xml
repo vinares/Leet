@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19dc0520-41a2-4a6b-a95d-57e356230622" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Array/118.Pascal'sTriangle/.idea/118.Pascal'sTriangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/118.Pascal'sTriangle/迭代.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/118.Pascal'sTriangle/错位相加.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/119.Pascal'sTriangle2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/119.Pascal'sTriangle2/.idea/119.Pascal'sTriangle2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/119.Pascal'sTriangle2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/119.Pascal'sTriangle2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/119.Pascal'sTriangle2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/119.Pascal'sTriangle2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/119.Pascal'sTriangle2/comb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/119.Pascal'sTriangle2/错位相加.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/121.Stock/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/121.Stock/.idea/121.Stock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/121.Stock/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/121.Stock/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/121.Stock/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/121.Stock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/121.Stock/堆栈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/121.Stock/更新.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/122.Stock2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/122.Stock2/.idea/122.Stock2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/122.Stock2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/122.Stock2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/122.Stock2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/122.Stock2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/122.Stock2/动态规划.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/122.Stock2/动态规划.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/122.Stock2/贪心算法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/122.Stock2/贪心算法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/123.Stock3/.idea/123.Stock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/134.GasStation/.idea/134.GasStation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/134.GasStation/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/134.GasStation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/134.GasStation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/134.GasStation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/134.GasStation/贪心算法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/134.GasStation/贪心算法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/134.GasStation/迭代.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/134.GasStation/迭代.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/169.Majority/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/169.Majority/.idea/169.Majority.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/169.Majority/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/169.Majority/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/169.Majority/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/169.Majority/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/169.Majority/Boyer-Moore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/169.Majority/Counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/169.Majority/分治.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/169.Majority/随机.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/188.Stock4/.idea/188.Stock4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/188.Stock4/动态规划.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/189.RotateK/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/189.RotateK/.idea/189.RotateK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/189.RotateK/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/189.RotateK/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/189.RotateK/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/189.RotateK/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/189.RotateK/反转.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/189.RotateK/反转.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/189.RotateK/额外数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/217.Duplicate/.idea/217.Duplicate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/217.Duplicate/哈希表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/219.Duplicate2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/219.Duplicate2/.idea/219.Duplicate2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/219.Duplicate2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/219.Duplicate2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/219.Duplicate2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/219.Duplicate2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/219.Duplicate2/哈希表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/220.Duplicate3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/220.Duplicate3/.idea/220.Duplicate3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/220.Duplicate3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/220.Duplicate3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/220.Duplicate3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/220.Duplicate3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/220.Duplicate3/AVL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/220.Duplicate3/分桶.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/220.Duplicate3/哈希.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/220.Duplicate3/暴力.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/229.Majority2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/229.Majority2/.idea/229.Majority2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/229.Majority2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/229.Majority2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/229.Majority2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/229.Majority2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/229.Majority2/Moore投票.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/229.Majority2/哈希.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/229.Majority2/随机.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/26.RemoveDup/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/26.RemoveDup/.idea/26.RemoveDup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/26.RemoveDup/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/26.RemoveDup/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/26.RemoveDup/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/26.RemoveDup/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/26.RemoveDup/删除重复.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/27.Remove/.idea/27.Remove.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/27.Remove/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/27.Remove/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/27.Remove/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/27.Remove/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/27.Remove/删除元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/274.H-Index/.idea/274.H-Index.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/274.H-Index/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/274.H-Index/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/274.H-Index/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/274.H-Index/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/274.H-Index/哈希暴力.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/274.H-Index/排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/274.H-Index/计数排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/275.H-Index2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/275.H-Index2/.idea/275.H-Index2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/275.H-Index2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/275.H-Index2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/275.H-Index2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/275.H-Index2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/275.H-Index2/Binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/275.H-Index2/顺序遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/299.GetHint/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/299.GetHint/.idea/299.GetHint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/299.GetHint/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/299.GetHint/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/299.GetHint/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/299.GetHint/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/299.GetHint/Counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/299.GetHint/哈希表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/307.SumRange/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/307.SumRange/.idea/307.SumRange.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/307.SumRange/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/307.SumRange/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/307.SumRange/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/307.SumRange/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/307.SumRange/Fenwick.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/307.SumRange/FenwickTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/307.SumRange/SegmentTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/307.SumRange/常规.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/308.RangeSum2D/.idea/308.RangeSum2D.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/308.RangeSum2D/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/308.RangeSum2D/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/308.RangeSum2D/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/308.RangeSum2D/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/308.RangeSum2D/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/308.RangeSum2D/BIT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/309.Stock4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/309.Stock4/.idea/309.Stock4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/309.Stock4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/309.Stock4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/309.Stock4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/309.Stock4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/309.Stock4/动态规划.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/316.RemoveLetters/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/316.RemoveLetters/.idea/316.RemoveLetters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/316.RemoveLetters/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/316.RemoveLetters/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/316.RemoveLetters/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/316.RemoveLetters/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/316.RemoveLetters/栈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/316.RemoveLetters/栈.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/316.RemoveLetters/贪心递归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/316.RemoveLetters/递归.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/384.Shuffle/.idea/384.Shuffle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/384.Shuffle/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/384.Shuffle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/384.Shuffle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/384.Shuffle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/384.Shuffle/Fisher-Yates洗牌.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/41.MissingPositive/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/41.MissingPositive/.idea/41.MissingPositive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/41.MissingPositive/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/41.MissingPositive/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/41.MissingPositive/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/41.MissingPositive/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/41.MissingPositive/原地哈希.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/41.MissingPositive/桶排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/442.FindDup/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/442.FindDup/.idea/442.FindDup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/442.FindDup/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/442.FindDup/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/442.FindDup/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/442.FindDup/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/442.FindDup/抽屉原理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/448.FindMiss/.idea/448.FindMiss.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/448.FindMiss/负标记.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/45.Jump2/.idea/45.Jump2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/45.Jump2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/45.Jump2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/45.Jump2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/45.Jump2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/45.Jump2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/45.Jump2/贪心算法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/518.Change/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/55.Jump/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/55.Jump/.idea/55.Jump.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/55.Jump/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/55.Jump/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/55.Jump/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/55.Jump/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/55.Jump/哈希表找0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/55.Jump/看0能不能跨越.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/55.Jump/贪心算法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/55.Jump/贪心算法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/55.Jump/递归超时.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/581.ShortestUnsorted/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/581.ShortestUnsorted/.idea/581.ShortestUnsorted.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/581.ShortestUnsorted/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/581.ShortestUnsorted/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/581.ShortestUnsorted/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/581.ShortestUnsorted/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/581.ShortestUnsorted/和有序数组比较.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/581.ShortestUnsorted/和有序数组比较.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/581.ShortestUnsorted/堆栈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/581.ShortestUnsorted/堆栈.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/581.ShortestUnsorted/循环4次.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/581.ShortestUnsorted/循环4次.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/581.ShortestUnsorted/暴力找左右边界.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/581.ShortestUnsorted/暴力找左右边界.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/80.RemoveDup2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/80.RemoveDup2/.idea/80.RemoveDup2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/80.RemoveDup2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/80.RemoveDup2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/80.RemoveDup2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/80.RemoveDup2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/80.RemoveDup2/删除重复3个.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/80.RemoveDup2/覆盖多余.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/845.LongestMountain/.idea/845.LongestMountain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/845.LongestMountain/记录增和不动点.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/845.LongestMountain/记录峰值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/421.MaxXOR/.idea/421.MaxXOR.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/120.Triangle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/120.Triangle/.idea/120.Triangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/120.Triangle/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/120.Triangle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/120.Triangle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/120.Triangle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/139.WordBreak/.idea/139.WordBreak.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/139.WordBreak/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/139.WordBreak/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/139.WordBreak/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/139.WordBreak/DP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/139.WordBreak/记忆回溯.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/139.WordBreak/记忆回溯.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/279.SquareNum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/279.SquareNum/.idea/279.SquareNum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/279.SquareNum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/279.SquareNum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/279.SquareNum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/279.SquareNum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/279.SquareNum/DP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/279.SquareNum/math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/279.SquareNum/贪心BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/279.SquareNum/贪心帝国.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/279.SquareNum/贪心递归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/321.MaxNumber/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/321.MaxNumber/.idea/321.MaxNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/321.MaxNumber/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/321.MaxNumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/321.MaxNumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/321.MaxNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/321.MaxNumber/DP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/518.Change/.idea/518.Change.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/62.UniquePath/.idea/62.UniquePath.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/62.UniquePath/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/62.UniquePath/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/62.UniquePath/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/62.UniquePath/comb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/62.UniquePath/matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/62.UniquePath/一维动态规划.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/63.UniquePath2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/63.UniquePath2/.idea/63.UniquePath2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/63.UniquePath2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/63.UniquePath2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/63.UniquePath2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/63.UniquePath2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/63.UniquePath2/优化动态规划.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/63.UniquePath2/动态规划.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/64.PathSum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/64.PathSum/.idea/64.PathSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/64.PathSum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/64.PathSum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/64.PathSum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/64.PathSum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/64.PathSum/BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/64.PathSum/DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/64.PathSum/DP空间优化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/70.Climb/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/70.Climb/.idea/70.Climb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/70.Climb/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/70.Climb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/70.Climb/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/70.Climb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/70.Climb/矩阵快速幂.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/70.Climb/通项公式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/718.RepeatedSub/.idea/718.RepeatedSub.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/718.RepeatedSub/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/718.RepeatedSub/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/718.RepeatedSub/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/718.RepeatedSub/DP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/718.RepeatedSub/二分查找哈希.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DP/718.RepeatedSub/滑窗.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/412.FizzBuzz/.idea/412.FizzBuzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/412.FizzBuzz/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/412.FizzBuzz/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/412.FizzBuzz/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/412.FizzBuzz/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/412.FizzBuzz/FizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/412.FizzBuzz/散列表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/523.SubarraySum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/523.SubarraySum/.idea/523.SubarraySum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/523.SubarraySum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/523.SubarraySum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/523.SubarraySum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/523.SubarraySum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/523.SubarraySum/哈希.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/525.SubarrayBinary/.idea/525.LongestArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/560.Subarray/.idea/560.Subarray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/7.Reverse/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/7.Reverse/.idea/7.Reverse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/7.Reverse/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/7.Reverse/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/7.Reverse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/7.Reverse/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math/7.Reverse/模10运算.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode刷题分类手册第5版.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode刷题分类手册第5版.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Math/18.Sum4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Math/18.Sum4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Math/18.Sum4/双指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Math/18.Sum4/双指针.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mOzOAKe7beTspjtOhkVavncgut" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/421.MaxXOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19dc0520-41a2-4a6b-a95d-57e356230622" name="Default Changelist" comment="" />
+      <created>1609379390741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609379390741</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1609379671959">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1609379671959" />
+  </component>
+</project>
