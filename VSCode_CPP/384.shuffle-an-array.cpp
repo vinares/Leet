@@ -7,26 +7,24 @@
 // @lc code=start
 class Solution {
     int n;
-    vector<int> original_nums;
+    vector<int> original;
 public:
     Solution(vector<int>& nums) {
-        original_nums = nums;
-        n = original_nums.size();
+        original = nums;
+        n = nums.size();
     }
     
     vector<int> reset() {
-        return original_nums;
+        return original;
     }
     
     vector<int> shuffle() {
-        vector<int> arr = original_nums;
-        int sz = n;
-        for(int i=n-1;i>-1;i--)
-        {
-            int ind = rand()%sz--;
-            swap(arr[ind],arr[i]);
+        vector<int> ans = original;
+        for (int i=n-1; i>0; i--) {
+            int random_index = rand() % (i+1);
+            swap(ans[random_index], ans[i]);
         }
-        return arr;
+        return ans;
     }
 };
 
