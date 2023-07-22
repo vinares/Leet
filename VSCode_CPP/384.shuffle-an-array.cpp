@@ -6,26 +6,25 @@
 
 // @lc code=start
 class Solution {
-    int n;
-    vector<int> original;
+  int n;
+  vector<int> original;
+
 public:
-    Solution(vector<int>& nums) {
-        original = nums;
-        n = nums.size();
+  Solution(vector<int> &nums) {
+    original = nums;
+    n = nums.size();
+  }
+
+  vector<int> reset() { return original; }
+
+  vector<int> shuffle() {
+    vector<int> ans = original;
+    for (int i = n - 1; i > 0; i--) {
+      int random_index = rand() % (i + 1);
+      swap(ans[random_index], ans[i]);
     }
-    
-    vector<int> reset() {
-        return original;
-    }
-    
-    vector<int> shuffle() {
-        vector<int> ans = original;
-        for (int i=n-1; i>0; i--) {
-            int random_index = rand() % (i+1);
-            swap(ans[random_index], ans[i]);
-        }
-        return ans;
-    }
+    return ans;
+  }
 };
 
 /**
@@ -35,4 +34,3 @@ public:
  * vector<int> param_2 = obj->shuffle();
  */
 // @lc code=end
-
