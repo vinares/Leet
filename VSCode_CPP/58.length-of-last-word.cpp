@@ -11,7 +11,6 @@ public:
     int lengthOfLastWord(string s)
     {
         int n = s.size() - 1;
-        int cnt = 0;
         for (n; n >= 0; n--)
             if (s[n] != ' ')
             {
@@ -21,10 +20,10 @@ public:
         for (int i = n - 1; i >= -1; i--)
             if (i < 0 || s[i] == ' ')
             {
-                cnt = max(0, n - i - 1);
+                return max(0, n - i - 1);
                 break;
             }
-        return cnt;
+        return 0;
     }
 };
 // @lc code=end
