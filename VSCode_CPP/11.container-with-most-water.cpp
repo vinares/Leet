@@ -6,22 +6,17 @@
 
 // @lc code=start
 class Solution {
-public:
+   public:
     int maxArea(vector<int>& height) {
-        int left = 0, right = height.size()-1;
-        int dummy = (right-left) * min(height[left], height[right]);
+        int left = 0, right = height.size() - 1;
+        int ans = (right - left) * min(height[left], height[right]);
         while (left < right) {
-            if (height[left] < height[right] ) {
-                left += 1;
-            } else {
-                right -= 1;
-            }
-            int cur_prod = (right-left) * min(height[left], height[right]);
-            if (cur_prod > dummy)
-                dummy = cur_prod;
+            if (height[left] < height[right]) left++;
+            else right--;
+            int water = (right - left) * min(height[left], height[right]);
+            ans = max(ans, water);
         }
-        return dummy;
+        return ans;
     }
 };
 // @lc code=end
-
