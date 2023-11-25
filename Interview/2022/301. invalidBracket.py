@@ -1,6 +1,7 @@
 class Solution:
     def removeInvalidParentheses(self, s: str) -> list:
         res = set()
+        # quota for removal
         left, right = 0, 0
         for x in s:
             if x == '(':
@@ -16,12 +17,15 @@ class Solution:
                 if left == 0 and right == 0:
                     res.add(tmp)
                 return
-
+            
+            # skip () by using quota
             if s[i] == '(' and left > 0:
                 dfs(left - 1, right,i+1,leftres,rightres,tmp)
             if s[i] == ')' and right > 0:
                 dfs(left,right - 1,i + 1,leftres,rightres,tmp)
-
+            # add alphabetic char
+            # add more ( is safe. In the end, quota remains and we don't adopt them.
+            # only when there are more (, we can add ). This ensures validity
             if s[i] not in '()':
                 dfs(left,right,i+1,leftres,rightres,tmp+s[i])
             elif s[i] == '(':
