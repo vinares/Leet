@@ -12,19 +12,19 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def get_depth(self, root):
+    def dfs(self, root):
         if not root:
             return 0
-        left = self.get_depth(root.left)
-        right = self.get_depth(root.right)
+        if not root.left and not root.right:
+            return 1
+        left = self.dfs(root.left)
+        right = self.dfs(root.right)
         self.diameter = max(self.diameter, left+right)
-        return max(left, right) + 1
+        return max(left, right)+1
 
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         self.diameter = 0
-
-        self.get_depth(root)
+        self.dfs(root)
         return self.diameter
-
 # @lc code=end
 
